@@ -22,7 +22,6 @@ class _DropdownExampleState extends State<DropdownExample> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             DropDownField(
-              // titleText: 'Add Folder',
               hintText: 'Please choose one',
               value: _selected,
               onChanged: (v) {
