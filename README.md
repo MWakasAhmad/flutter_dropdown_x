@@ -53,6 +53,38 @@ var data = [
   
 ```
 
+
+### Example
+
+```dart
+
+String _selected = "";
+
+DropDownField(
+              hintText: 'Please choose one',
+              value: _selected,
+              onChanged: (v) {
+                setState(() {
+                  _selected = v;
+                });
+              },
+              dataSource: const [
+                {
+                  "display": "value 1",
+                  "value": "1",
+                },
+                {
+                  "display": "value 2",
+                  "value": "2",
+                } 
+              ],
+              textField: 'display',
+              valueField: 'value',
+
+            ),
+
+```
+
 ## Additional information
 
 TODO: Tell users more about the package: where to find more information, how to 
