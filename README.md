@@ -3,7 +3,7 @@
 TODO: Put a short description of the package here that helps potential users
 know whether this package might be useful for them.
 
-![example](https://user-images.githubusercontent.com/63371772/133369293-a64ea18e-486a-4b54-83d1-ee8889e539b8.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/63371772/133369899-1033d25c-39bb-4106-8b5a-a14b9e4fd19d.gif)
 
 ## Features
 
