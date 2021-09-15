@@ -4,11 +4,19 @@
 
 ![example01](https://user-images.githubusercontent.com/63371772/133370068-36577d3c-a86b-42d9-aefb-8882785f9240.gif)
 
+## Getting started
+
+### Add dependency
+
+```dart
+flutter_dropdown_x: ^0.0.2
+```
+
 ## Features
 
 TODO: List what your package can do. Maybe include images, gifs, or videos.
 
-## Getting started
+
 
 TODO: List prerequisites and provide or point to information on how to
 start using the package.
