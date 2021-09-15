@@ -1,7 +1,6 @@
 # Flutter Dropdown X
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+ Flutter Dropdown X is a dropdown field using a dropdown button inside a form field.
 
 ![example01](https://user-images.githubusercontent.com/63371772/133370068-36577d3c-a86b-42d9-aefb-8882785f9240.gif)
 
