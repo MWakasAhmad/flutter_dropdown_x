@@ -3,6 +3,8 @@
 TODO: Put a short description of the package here that helps potential users
 know whether this package might be useful for them.
 
+![example](https://user-images.githubusercontent.com/63371772/133369293-a64ea18e-486a-4b54-83d1-ee8889e539b8.gif)
+
 ## Features
 
 TODO: List what your package can do. Maybe include images, gifs, or videos.
