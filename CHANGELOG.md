@@ -1,3 +1,5 @@
-## 0.0.1
+## [0.0.2] - 2021.09.15
+* Second publish
 
-* TODO: Describe initial release.
+## [0.0.1] - 2021.09.13
+* First publish

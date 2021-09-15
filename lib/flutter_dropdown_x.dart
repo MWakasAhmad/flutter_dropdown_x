@@ -39,7 +39,7 @@ class DropDownField extends StatelessWidget {
           InputDecorator(
             decoration: InputDecoration(
               border: OutlineInputBorder(borderRadius: BorderRadius.circular(5.0)),
-              contentPadding: EdgeInsets.all(18),
+              contentPadding: const EdgeInsets.all(18),
               labelText: titleText,
               filled: filled,
             ),

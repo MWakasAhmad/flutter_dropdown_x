@@ -1,7 +1,7 @@
 name: flutter_dropdown_x
 description: A new Flutter project.
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://mwakasahmad.github.io/m_waqas/#/
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
