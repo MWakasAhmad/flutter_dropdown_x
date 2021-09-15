@@ -23,6 +23,36 @@ import 'package:flutter_dropdown_x/flutter_dropdown_x.dart';
 
 ### JSON implementation 
 
+```dart
+
+String _selected = "";
+
+var data = [
+    {'id': "1", 'value': 'value1'},
+    {'id': "2", 'value': 'value2'},
+    {'id': "3", 'value': 'value3'},
+    {'id': "4", 'value': 'value4'},
+    {'id': "5", 'value': 'value5'},
+    {'id': "6", 'value': 'value6'},
+  ];
+  
+  
+  DropDownField(
+                    value: _selected,
+                    hintText: 'Please choose one',
+                    dataSource: data,
+                    onChanged: (v) {
+                      print(v);
+                      setState(() {
+                        _selected = v;
+                      });
+                    },
+                    valueField: 'id',
+                    textField: 'value',
+                  ),
+  
+```
+
 ## Additional information
 
 TODO: Tell users more about the package: where to find more information, how to 
