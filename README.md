@@ -12,6 +12,13 @@
 flutter_dropdown_x: ^0.0.2
 ```
 
+### Import it
+
+```dart
+import 'package:flutter_dropdown_x/flutter_dropdown_x.dart';
+```
+
+
 ## Features
 
 TODO: List what your package can do. Maybe include images, gifs, or videos.
